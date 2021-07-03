@@ -2,3 +2,17 @@ header {
   background: #0074D9;
   color: white;
 }
+
+.info {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.info h2{
+  background: #0074D9;
+  color: white;
+}
+
+img {
+  width: 100%;
+}
